@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-winprivatenetwork",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add privateNetworkClientServer capabilities to a windows UWP+Cordova app",
   "cordova": {
     "id": "cordova-plugin-winprivatenetwork",

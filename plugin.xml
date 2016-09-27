@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<plugin 
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-winPrivateNetwork" version="1.0.2">
   <name>Windows PrivateNetwork</name>
   <description>Add privateNetworkClientServer capabilities to a windows UWP+Cordova app</description>
   <license>MIT</license>
