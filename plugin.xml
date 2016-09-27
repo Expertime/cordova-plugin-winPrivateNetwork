@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin 
+  xmlns="http://apache.org/cordova/ns/plugins/1.0"id="cordova-plugin-winPrivateNetwork" version="1.0.0">
+  <name>Windows PrivateNetwork</name>
+  <description>Add privateNetworkClientServer capabilities to a windows UWP+Cordova app</description>
+  <license>MIT</license>
+  <keywords>cordova, cordova-windows</keywords>
+  <repo>https://github.com/expertime/cordova-plugin-winprivatenetwork.git</repo>
+  <!-- windows UWP -->
+  <platform name="windows">
+    <config-file target="package.appxmanifest" parent="Capabilities">
+      <Capability Name="privateNetworkClientServer" />
+    </config-file>
+  </platform>
+</plugin>

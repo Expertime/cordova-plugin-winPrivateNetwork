@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-winprivatenetwork",
+  "version": "1.0.0",
+  "description": "Add privateNetworkClientServer capabilities to a windows UWP+Cordova app",
+  "cordova": {
+    "id": "cordova-plugin-winprivatenetwork",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expertime/cordova-plugin-winprivatenetwork"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-windows"
+  ],
+  "author": "expertime",
+  "license": "MIT"
+}
