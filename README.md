@@ -9,4 +9,4 @@ For more informations about the privateNetworkClientServer: [msdn documentation]
 
 ## Installation
 
-    cordova plugin add cordova-plugin-winPrivateNetwork
+    cordova plugin add cordova-plugin-winprivatenetwork

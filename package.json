@@ -13,7 +13,7 @@
     "url": "https://github.com/expertime/cordova-plugin-winprivatenetwork"
   },
   "keywords": [
-    "cordova",
+    "ecosystem:cordova",
     "cordova-windows"
   ],
   "author": "expertime",
